@@ -24,3 +24,18 @@
     "production": {}
   }
 }
+{
+  "build": {
+    "amazon": {
+      "android": {
+        "buildType": "apk",
+        "keystore": {
+          "keystorePath": "~/.android/casino-royal.keystore",
+          "keystorePassword": "CasinoRoyal2024!",
+          "keyAlias": "casino-royal-key",
+          "keyPassword": "CasinoRoyal2024!"
+        }
+      }
+    }
+  }
+}
